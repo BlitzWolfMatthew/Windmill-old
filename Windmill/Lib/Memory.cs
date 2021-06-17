@@ -71,7 +71,7 @@ namespace Cosmos_1.Windmill.Lib
                 super.ram[loc + i] = super.program[super.index];
                 super.index++;
             }
-            super.ram[loc + i + 1] = 0; //null terminate
+            super.ram[loc + i] = 0; //null terminate
         }
 
         //returns x bytes at loc
