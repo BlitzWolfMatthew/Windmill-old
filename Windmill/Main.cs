@@ -42,6 +42,9 @@ namespace Cosmos_1.Windmill
                 case 0x05:
                     Lib.Utilities.FindFunction(this);
                     break;
+                case 0x06:
+                    Lib.RunnableFunctions.FindFunction(this);
+                    break;
             }
         }
     }
