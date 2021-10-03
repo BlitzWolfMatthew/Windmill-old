@@ -1,5 +1,6 @@
 # Windmill
-An interpreted binary executor for CosmosOS.
+An interpreted binary executor for CosmosOS.  
+###  !! This project is no longer active due too it being redundant. !!
 
 TODO:
 - Parsing methods - only byte & int32 to string atm;
